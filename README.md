@@ -1,3 +1,10 @@
+# Projeto Aprenser
+Apreser é uma página de apresentação de uma plataforma de cursos online, com foco em mostrar de forma clara os cursos disponíveis, informações da instituição e um canal de contato direto com os visitantes. O projeto foi pensado para ser objetivo, responsivo e de fácil navegação.
+
+# Tecnologias:
+- HTML
+- CSS
+
 ### Link para acessar o Site do Projeto:
 https://projeto-aprenser-livid.vercel.app/
 ##
